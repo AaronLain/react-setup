@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import 'variables';
+
+body {
+background-color: $favColor
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
